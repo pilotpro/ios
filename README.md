@@ -3,6 +3,8 @@ Pilot Pro 2
 
 This is where we track issues (bugs, crashes, glitches) for the Pilot Pro iOS app.
 
+Click the **Issues** link to the right to get started.
+
 Please send feature requests to help@pilotpro.com
 
 ===
