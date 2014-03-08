@@ -1,4 +1,4 @@
-Pilot Pro 2
+Pilot Pro 2 iOS Issues
 ===
 
 This is where we track issues (bugs, crashes, glitches) for the Pilot Pro iOS app.
